@@ -1,2 +1,3 @@
-# lab-test-maven-template
-Template for lab tests with maven project and JUnit and JFreeChart configured.
+# Prova de Laboratório de programação modular
+
+## Aluno: Colocar seu nome aqui
